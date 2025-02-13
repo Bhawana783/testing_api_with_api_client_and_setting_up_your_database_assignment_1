@@ -4,6 +4,7 @@ const fs = require('fs');
 
 const app = express();
 const port = 3000;
+const data = require("./data.json")
 
 // Middleware to parse JSON requests
 app.use(bodyParser.json());
