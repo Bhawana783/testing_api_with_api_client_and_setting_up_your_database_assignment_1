@@ -6,7 +6,13 @@
   },
   "dependencies": {
     "body-parser": "^1.20.3",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "nodemon": "^3.1.7"
-  }
+  },
+  "version": "1.0.0",
+  "description": "You are a developer for an educational analytics platform that helps teachers evaluate students' performance. The platform maintains student records, including their names, grades, and marks in multiple subjects, stored in a JSON format.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
